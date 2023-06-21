@@ -19,5 +19,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
+  "include": ["src", "trash/main2.ts", "trash/trash.ts", "trash/objects2.ts", "trash/Objects.ts", "trash/main.js"]
 }
