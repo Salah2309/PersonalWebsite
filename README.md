@@ -1,3 +1,3 @@
 # Personal_Website
 
-Used: Vite JS, Three JS, Vanilla, 
+Tools: Vite JS with Vanilla, Three JS, dat GUI, Blender

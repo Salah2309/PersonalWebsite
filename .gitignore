@@ -1,6 +1,5 @@
 # Logs
 package-lock.json
-tsconfig.json
 trash
 logs
 *.log
